@@ -196,6 +196,7 @@ $connectDB->close();
             <p>No tasks found.</p>
         <?php endif; ?>
     </div>
+    <a href="./fileUpload.php">go to image assignment</a>
 </body>
 
 </html>
